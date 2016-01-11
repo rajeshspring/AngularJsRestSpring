@@ -1,0 +1,2 @@
+# AngularJsRestSpring
+spring restfull AngularJs
